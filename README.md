@@ -1,6 +1,6 @@
 # MeshScale fork of microReticulum
 
-This is a fork of microReticulum by Atterman. This fork exists to have the freedom to fine-tune the library to this project's needs.
+This is a fork of microReticulum by Attermann. This fork exists to have the freedom to fine-tune the library to this project's needs.
 
 
 ## Contributing
